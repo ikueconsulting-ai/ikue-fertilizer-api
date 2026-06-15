@@ -1,0 +1,5 @@
+{
+  "global": { "priceTon": 420, "updated": "2026-06-15" },
+  "africa": { "priceTon": 390, "updated": "2026-06-15" },
+  "asia":   { "priceTon": 430, "updated": "2026-06-15" }
+}
